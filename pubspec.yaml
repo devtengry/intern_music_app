@@ -19,9 +19,14 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/home_screen_image_1.jpeg
+    - assets/images/home_screen_image_2.jpeg
+    - assets/images/home_screen_image_3.jpeg
     - assets/images/slider1.png
     - assets/images/dummy_cover_1.png
     - assets/images/dummy_cover_2.png
     - assets/images/dummy_cover_3.png
     - assets/images/dummy_cover_4.png
     - assets/images/decoration_image.png
+    - assets/images/fooo.png
+    - assets/audio/sergio_27s.mp3
+
