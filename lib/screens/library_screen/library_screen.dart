@@ -137,6 +137,7 @@ class LibraryScreen extends StatelessWidget {
       home: Scaffold(
         backgroundColor: const Color(0xFF1F1D2B),
         appBar: AppBar(
+          centerTitle: true,
           title: Text(
             'Library',
             style: GoogleFonts.poppins(
