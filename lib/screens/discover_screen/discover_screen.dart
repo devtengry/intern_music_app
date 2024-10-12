@@ -59,7 +59,8 @@ class __DiscoverScreenState extends State<_DiscoverScreen> {
       'Tech updates',
       'Funny moments',
       'Comedy central',
-      'Tech innovations'
+      'Tech innovations',
+      'Tech innovations',
     ];
 
     List<String> filteredItems = filterItems(allItems, _selectedCategory);
