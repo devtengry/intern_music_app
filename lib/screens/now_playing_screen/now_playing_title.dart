@@ -20,3 +20,5 @@ class NowPlayingTitle extends StatelessWidget {
     );
   }
 }
+
+class TitleColor {}
